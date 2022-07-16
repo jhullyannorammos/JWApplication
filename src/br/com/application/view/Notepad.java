@@ -3,7 +3,11 @@ package br.com.application.view;
 import javax.swing.*;  
 import java.awt.event.*;  
   
-public class Notepad implements ActionListener{  
+/**
+ *
+ * @author Juliano
+ */
+public class Notepad implements ActionListener {  
 JFrame f;  
 JMenuBar mb;  
 JMenu file,edit,help;  
